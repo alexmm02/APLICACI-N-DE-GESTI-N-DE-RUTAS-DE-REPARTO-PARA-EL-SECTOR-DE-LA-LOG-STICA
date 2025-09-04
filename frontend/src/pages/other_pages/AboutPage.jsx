@@ -21,9 +21,8 @@ function AboutPage() {
           If you have any questions, suggestions, or need support, feel free to reach out to the admin:
         </p>
         <ul className="text-lg list-disc list-inside">
-          <li>Email: <a href="mailto:alejandro@example.com" className="text-blue-600 hover:underline">alejandro@example.com</a></li>
-          <li>GitHub: <a href="https://github.com/alejandromartin" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">github.com/alejandromartin</a></li>
-          <li>LinkedIn: <a href="https://linkedin.com/in/alejandromartin" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">linkedin.com/in/alejandromartin</a></li>
+          <li>Email: <a href="mailto:alejandromartin_02@usal.es" className="text-blue-600 hover:underline">alejandromartin_02@usal.es</a></li>
+          <li>GitHub: <a href="https://github.com/alexmm02/APLICACI-N-DE-GESTI-N-DE-RUTAS-DE-REPARTO-PARA-EL-SECTOR-DE-LA-LOG-STICA " target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">github.com/alejandromartin</a></li>
         </ul>
       </div>
     </div>
